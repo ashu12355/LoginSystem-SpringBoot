@@ -1,5 +1,6 @@
 #Simple Login Application
-This is a simple login application built with Spring Boot and Thymeleaf, designed to authenticate users using a MySQL database. The application features a clean, card-style login interface with username and password fields, ensuring a user-friendly experience.
+This is a simple login application built with Spring Boot and Thymeleaf, designed to authenticate users using a MySQL database. 
+The application features a login interface with username and password fields, ensuring a user-friendly experience.
 
 #Features
 User authentication with username and password.
